@@ -14,4 +14,4 @@ Haven't figured out the .gpg extension decryption/decompression yet.
 
 ## Sniffing for versions
 
-`wget http://cdn.zinkapps.com/brotherupgrade-{2019..2022}{01..12}{01..31}{01..05}.tgz.gpg `
+`wget http://cdn.zinkapps.com/brotherupgrade-{2019..2022}{01..12}{01..31}{01..05}.tgz.gpg`
